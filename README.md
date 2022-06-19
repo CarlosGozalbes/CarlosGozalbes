@@ -6,10 +6,10 @@ Student of Epicode
 
 A little more about me
 
-const carlosGozalbes = { /n
-  preferedRole: "front-end developer", /n
-  code: [Javascript, Typescript, HTML, CSS], /n
-  tools: [React, Redux, Node, Bootstrap, Jest], /n
-  back-end: [MongoDB, PostgreSQL, Express], /n
-  currently: "Looking to improve my ReactJs skills" /n
+const carlosGozalbes = { <br>
+&nbsp;&nbsp;  preferedRole: "front-end developer",  <br>
+&nbsp;&nbsp;  code: [Javascript, Typescript, HTML, CSS], <br>
+&nbsp;&nbsp;  tools: [React, Redux, Node, Bootstrap, Jest], <br>
+&nbsp;&nbsp;  back-end: [MongoDB, PostgreSQL, Express], <br>
+&nbsp;&nbsp;  currently: "Looking to improve my ReactJs skills" <br>
 }
