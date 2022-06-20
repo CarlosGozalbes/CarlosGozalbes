@@ -11,5 +11,5 @@ const carlosGozalbes = { <br>
 &nbsp;&nbsp;  code: [Javascript, Typescript, HTML, CSS], <br>
 &nbsp;&nbsp;  tools: [React, Redux, Node, Bootstrap, Jest], <br>
 &nbsp;&nbsp;  back-end: [MongoDB, PostgreSQL, Express], <br>
-&nbsp;&nbsp;  currently: "Looking to improve my ReactJs skills" <br>
+&nbsp;&nbsp;  currently: ["Looking to improve my ReactJs skills","coursing profesional certificate UX design from google"] <br>
 }
